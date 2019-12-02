@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import {RouterModule, Routes} from '@angular/router'; // Step 2 [Step 1 is in index.html] :  <base href="/">
 
+
 import { HomeComponent } from './home/home.component';
 import { EmployeesComponent } from './employees/employees.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
